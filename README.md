@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/mayurshinde6636/dsa/tree/master/0896-monotonic-array) |
 | [1929-concatenation-of-array](https://github.com/mayurshinde6636/dsa/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mayurshinde6636/dsa/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/mayurshinde6636/dsa/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
