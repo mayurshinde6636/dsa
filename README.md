@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayurshinde6636/dsa/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/mayurshinde6636/dsa/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/mayurshinde6636/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mayurshinde6636/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mayurshinde6636/dsa/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mayurshinde6636/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/mayurshinde6636/dsa/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/mayurshinde6636/dsa/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
