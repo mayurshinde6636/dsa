@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/mayurshinde6636/dsa/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/mayurshinde6636/dsa/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mayurshinde6636/dsa/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayurshinde6636/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mayurshinde6636/dsa/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/mayurshinde6636/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/mayurshinde6636/dsa/tree/master/0168-excel-sheet-column-title) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mayurshinde6636/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
