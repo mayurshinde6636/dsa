@@ -48,10 +48,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mayurshinde6636/dsa/tree/master/0012-integer-to-roman) |
+| [0096-unique-binary-search-trees](https://github.com/mayurshinde6636/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/mayurshinde6636/dsa/tree/master/0168-excel-sheet-column-title) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mayurshinde6636/dsa/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/mayurshinde6636/dsa/tree/master/0168-excel-sheet-column-title) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/mayurshinde6636/dsa/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/mayurshinde6636/dsa/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/mayurshinde6636/dsa/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/mayurshinde6636/dsa/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
