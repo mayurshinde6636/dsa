@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/mayurshinde6636/dsa/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mayurshinde6636/dsa/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mayurshinde6636/dsa/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/mayurshinde6636/dsa/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mayurshinde6636/dsa/tree/master/0096-unique-binary-search-trees) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/mayurshinde6636/dsa/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
